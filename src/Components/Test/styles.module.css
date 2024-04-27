@@ -1,0 +1,17 @@
+.jsonPatchUIWrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+}
+.sides{
+    width: 100%;
+    max-width: 100%;
+    height: 100vh;
+    overflow: auto;
+    padding: 20px;
+}
+.changeCard{
+  padding: 10px;
+  border-bottom: 1px solid;
+}

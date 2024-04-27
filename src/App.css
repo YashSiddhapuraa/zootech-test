@@ -1,0 +1,14 @@
+li,
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 10px !important;
+  border-radius: 10px !important;
+  margin-top: 10px;
+  margin-right: 10px;
+}
